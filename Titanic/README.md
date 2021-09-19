@@ -1,5 +1,5 @@
 # Titanic
-- Data Feature: train- (891, 12) / test- ( 418, 11)
+- Data Feature: train- (891, 12) / test- (418, 11)
 - Feature Imformation
 ![image](https://user-images.githubusercontent.com/70187490/133928405-a44fb615-ef35-42ea-8a33-05a454cd86ae.png)
 
@@ -19,7 +19,7 @@
 
 - Special Feature:
 1. pd.crosstab을 이용해 각 value의 빈도수를 추출한 점이 인상적이었음
-2. 여러 변수의 조건을 주어 생존률이 높은 특징을 찾아내 파생변수만으로 테이블을 생성한 Column Selection
+2. 여러 변수의 조건을 주어 생존률이 높은 특징을 찾아낸 파생변수만으로 테이블을 생성한 Column Selection
 3. train 파일과 test 파일을 concat시켜 한번에 Feature Engineering
 
 - Modeling:
