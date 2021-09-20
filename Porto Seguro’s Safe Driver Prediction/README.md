@@ -16,3 +16,4 @@
 1. 각 feature들의 특징을 담은 Meta Data를 만들어 활용
 2. Categorical 변수의 Encoding 방식을 Mean Encoding을 적용한 것이 인상적
 3. 데이터 불균형의 해결을 Undersampling을 사용함(데이터 사이즈가 매우 크기 때문)
+
